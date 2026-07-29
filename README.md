@@ -1,10 +1,10 @@
-# FDXS Personal Site
+# EZ_xs w Personal Site
 
 A lightweight personal website for presenting projects, development interests, and current experiments.
 
 ## Status
 
-Early draft.
+Active personal portfolio.
 
 ## Technology
 
@@ -26,11 +26,11 @@ http://localhost:8080
 
 ## Current Content
 
-* Personal introduction
-* Current focus
-* Selected projects
-* Working style
-* Contact placeholder
+- Personal introduction
+- Current focus
+- Selected projects
+- Working style
+- GitHub contact entry
 
 ## Privacy
 
@@ -38,9 +38,9 @@ This site does not include private contact information, analytics, tracking scri
 
 ## Planned Improvements
 
-* Add verified project screenshots
-* Add public repository links
-* Add a professional contact email
-* Add project detail pages
-* Consider bilingual content
-* Review deployment and domain options
+- Add verified project screenshots
+- Add public repository links
+- Add a professional contact email
+- Add project detail pages
+- Consider bilingual content
+- Review deployment and domain options
